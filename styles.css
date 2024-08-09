@@ -10,7 +10,8 @@ body{
     list-style: none;
 }
 *a{
-    list-style: none;
+    list-style: none !important; 
+
 }
 .nav{
     display: flex;
