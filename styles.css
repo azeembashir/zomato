@@ -6,7 +6,7 @@ body{
     font-family: sans-serif;
 }
 *{
-    text-decoration: none;
+    text-decoration: none !important;
     list-style: none;
 }
 *a{
