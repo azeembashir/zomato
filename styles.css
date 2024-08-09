@@ -7,7 +7,7 @@ body{
 }
 *{
     text-decoration: none;
-    list-style: none;
+    list-style: none !important;
 }
 *a{
     list-style: none !important; 
